@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<xml-stylesheet type="text/css" href="">
+<table>
+<head>
+<trains>Поезд</trains>
+<arrive>Прибытие</arrive>
+<departure>Отправление</departure>
+<way>Путь</way>
+<platform>Платформа</platform>
+<numbering>Нумерация</numbering>
+<latecomers>Опоздание</latecomers>
+</head>
+<train>
+<trains>52 Брест-Центральный — Санкт-Петербург-Витеб.</trains>
+<arrive>18:25</arrive>
+<departure>18:53</departure>
+<way>3</way>
+<platform>2</platform>
+<numbering>с хвоста поезда</numbering>
+<latecomers>2</latecomers>
+</train>
+<train>
+<trains>7337 Минск-Пассажирский — Беларусь</trains>
+<arrive>—</arrive>
+<departure>18:44</departure>
+<way>6А</way>
+<platform>3</platform>
+<numbering></numbering>
+<latecomers></latecomers>
+</train>
+<train>
+<trains>7213 Руденск — Минск-Пассажирский</trains>
+<arrive>18:45</arrive>
+<departure>—</departure>
+<way>10</way>
+<platform>5</platform>
+<numbering></numbering>
+<latecomers>1</latecomers>
+</train>
+<train>
+<trains>7334 Беларусь — Минск-Пассажирский</trains>
+<arrive>18:52</arrive>
+<departure>—</departure>
+<way>22</way>
+<platform></platform>
+<numbering></numbering>
+<latecomers></latecomers>
+</train>
+<train>
+<trains>708 Минск-Пассажирский — Гомель</trains>
+<arrive>—</arrive>
+<departure>19:00</departure>
+<way>11</way>
+<platform>5</platform>
+<numbering>с хвоста поезда</numbering>
+<latecomers>3</latecomers>
+</train>
+<train>
+<trains>6924 Минск-Пассажирский — Бобруйск</trains>
+<arrive>—</arrive>
+<departure>19:08</departure>
+<way>13</way>
+<platform>6</platform>
+<numbering>с хвоста поезда</numbering>
+<latecomers></latecomers>
+</train>
+<train>
+<trains>713 Витебск — Минск-Пассажирский</trains>
+<arrive>19:13</arrive>
+<departure>—</departure>
+<way>2</way>
+<platform>2</platform>
+<numbering>с головы поезда</numbering>
+<latecomers></latecomers>
+</train>
+<trains>6824 Барановичи-Полесские — Минск-Пассажирский</trains>
+<arrive>19:14</arrive>
+<departure>—</departure>
+<way>6А</way>
+<platform>3</platform>
+<numbering></numbering>
+<latecomers></latecomers>
+</train>
+</train>
+<trains>6130 Молодечно — Минск-Пассажирский</trains>
+<arrive>19:19</arrive>
+<departure>—</departure>
+<way>23</way>
+<platform></platform>
+<numbering></numbering>
+<latecomers>1</latecomers>
+</train>
+</table>
